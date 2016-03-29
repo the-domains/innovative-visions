@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et augue semper, vulputate enim a, pretium dui. Sed porta est dolor, sed commodo lorem faucibus et. In hac habitasse platea dictumst. Aliquam in nulla at enim mollis lobortis. Quisque eu elementum augue. Ut tempor ornare quam, id molestie ante sagittis ornare. Pellentesque diam arcu, scelerisque at efficitur nec, cursus ut felis. Aliquam iaculis malesuada risus at sodales. Aliquam et quam justo. Cras finibus nisi suscipit tortor elementum ultrices. Etiam feugiat elementum nisi vel mattis.'
-datePublished: '2016-03-29T13:53:47.877Z'
-dateModified: '2016-03-29T13:53:43.927Z'
+datePublished: '2016-03-29T13:54:25.891Z'
+dateModified: '2016-03-29T13:54:17.252Z'
 title: Lorem Ipsum
 author: []
 sourcePath: _posts/2016-03-29-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-dui.md
