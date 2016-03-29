@@ -1,0 +1,28 @@
+name: Innovative Visions
+favicon: null
+layout_spectrum: 0.15611140499822795
+typography_spectrum: 0.46051178500056267
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.04281697375699878
+  lightness: 0.10210444312542677
+  saturation: 0.8127142698504031
+  rhythmicContrast: 0.25470531242899597
+purpose: []
