@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et augue semper, vulputate enim a, pretium dui. Sed porta est dolor, sed commodo lorem faucibus et. In hac habitasse platea dictumst. Aliquam in nulla at enim mollis lobortis. Quisque eu elementum augue. Ut tempor ornare quam, id molestie ante sagittis ornare. Pellentesque diam arcu, scelerisque at efficitur nec, cursus ut felis. Aliquam iaculis malesuada risus at sodales. Aliquam et quam justo. Cras finibus nisi suscipit tortor elementum ultrices. Etiam feugiat elementum nisi vel mattis.'
-datePublished: '2016-03-29T13:38:58.668Z'
-dateModified: '2016-03-29T13:38:51.800Z'
+datePublished: '2016-03-29T13:47:54.934Z'
+dateModified: '2016-03-29T13:47:43.602Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-29-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-dui.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-dui/index.html
-_type: Article
+_type: WebPage
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et augue semper, vulputate enim a, pretium dui. Sed porta est dolor, sed commodo lorem faucibus et. In hac habitasse platea dictumst. Aliquam in nulla at enim mollis lobortis. Quisque eu elementum augue. Ut tempor ornare quam, id molestie ante sagittis ornare. Pellentesque diam arcu, scelerisque at efficitur nec, cursus ut felis. Aliquam iaculis malesuada risus at sodales. Aliquam et quam justo. Cras finibus nisi suscipit tortor elementum ultrices. Etiam feugiat elementum nisi vel mattis.
