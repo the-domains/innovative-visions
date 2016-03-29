@@ -1,7 +1,7 @@
 name: Innovative Visions
 favicon: null
-layout_spectrum: 0.15611140499822795
-typography_spectrum: 0.46051178500056267
+layout_spectrum: 0.91736
+typography_spectrum: 0.9207
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.04281697375699878
-  lightness: 0.10210444312542677
+    - '#000000'
+    - '#fe0003'
+    - '#5e6a68'
+    - '#f5ccc1'
+    - '#de8a84'
+  brandStrength: 0.1875
+  lightness: 0.75
   saturation: 0.8127142698504031
-  rhythmicContrast: 0.25470531242899597
+  rhythmicContrast: 0.5
 purpose: []
